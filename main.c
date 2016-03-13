@@ -4,6 +4,8 @@
 int main(int argc, char *argv[])
 {
   
+  printf("Hola Mundo");
+  
   system("PAUSE");	
   return 0;
 }
